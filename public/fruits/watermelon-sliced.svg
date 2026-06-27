@@ -1,0 +1,41 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- LEFT SLICE -->
+  <path d="M10 96 L60 20 L60 96 Z" fill="#f44336" stroke="#2e7d32" stroke-width="3" stroke-linejoin="round"/>
+  
+  <path d="M10 96 L60 96" stroke="#4caf50" stroke-width="6"/>
+  <path d="M10 96 L60 96" stroke="#8bc34a" stroke-width="3" transform="translate(0,-3)"/>
+
+  <!-- left rind -->
+  <path d="M10 96 L60 20 L60 30 L18 96 Z" fill="#4caf50"/>
+  <path d="M10 96 L60 20 L60 26 L14 96 Z" fill="#8bc34a"/>
+
+  <!-- left seeds -->
+  <ellipse cx="34" cy="72" rx="3" ry="5" fill="#1a1a1a" transform="rotate(-30 34 72)"/>
+  <ellipse cx="46" cy="58" rx="3" ry="5" fill="#1a1a1a" transform="rotate(-20 46 58)"/>
+  <ellipse cx="42" cy="82" rx="3" ry="5" fill="#1a1a1a" transform="rotate(-35 42 82)"/>
+
+  <!-- RIGHT SLICE -->
+  <path d="M110 96 L60 20 L60 96 Z" fill="#f44336" stroke="#2e7d32" stroke-width="3" stroke-linejoin="round"/>
+
+  <path d="M110 96 L60 96" stroke="#4caf50" stroke-width="6"/>
+  <path d="M110 96 L60 96" stroke="#8bc34a" stroke-width="3" transform="translate(0,-3)"/>
+
+  <!-- right rind -->
+  <path d="M110 96 L60 20 L60 30 L102 96 Z" fill="#4caf50"/>
+  <path d="M110 96 L60 20 L60 26 L106 96 Z" fill="#8bc34a"/>
+
+  <!-- right seeds -->
+  <ellipse cx="86" cy="72" rx="3" ry="5" fill="#1a1a1a" transform="rotate(30 86 72)"/>
+  <ellipse cx="74" cy="58" rx="3" ry="5" fill="#1a1a1a" transform="rotate(20 74 58)"/>
+  <ellipse cx="78" cy="82" rx="3" ry="5" fill="#1a1a1a" transform="rotate(35 78 82)"/>
+
+  <!-- juice drops -->
+  <circle cx="24" cy="84" r="4" fill="#ff8a80" stroke="#e53935" stroke-width="1.5"/>
+  <circle cx="16" cy="96" r="3" fill="#ff8a80" stroke="#e53935" stroke-width="1.5"/>
+  <circle cx="96" cy="84" r="4" fill="#ff8a80" stroke="#e53935" stroke-width="1.5"/>
+
+  <!-- shine -->
+  <ellipse cx="36" cy="50" rx="6" ry="14" fill="white" opacity="0.25" transform="rotate(-20 36 50)"/>
+
+</svg>

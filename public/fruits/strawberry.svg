@@ -1,0 +1,31 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Shadow -->
+  <ellipse cx="60" cy="102" rx="28" ry="7" fill="#000" opacity="0.2"/>
+
+  <!-- Leaves -->
+  <path d="M60 28 C52 18 44 16 40 18 C48 22 52 26 58 30Z" fill="#2e7d32"/>
+  <path d="M60 28 C60 14 56 10 56 8 C58 16 60 22 60 28Z" fill="#43a047"/>
+  <path d="M60 28 C68 18 76 16 80 18 C72 22 68 26 62 30Z" fill="#2e7d32"/>
+
+  <!-- Body -->
+  <path d="M60 30
+           C42 30 30 48 32 64
+           C34 86 48 104 60 104
+           C72 104 86 86 88 64
+           C90 48 78 30 60 30Z"
+        fill="#e53935" stroke="#b71c1c" stroke-width="3"/>
+
+  <!-- Seeds -->
+  <circle cx="50" cy="52" r="2.3" fill="#fff3f3"/>
+  <circle cx="70" cy="52" r="2.3" fill="#fff3f3"/>
+  <circle cx="44" cy="64" r="2.3" fill="#fff3f3"/>
+  <circle cx="60" cy="62" r="2.3" fill="#fff3f3"/>
+  <circle cx="76" cy="64" r="2.3" fill="#fff3f3"/>
+  <circle cx="52" cy="78" r="2.3" fill="#fff3f3"/>
+  <circle cx="68" cy="78" r="2.3" fill="#fff3f3"/>
+
+  <!-- Shine -->
+  <ellipse cx="46" cy="50" rx="8" ry="12" fill="white" opacity="0.25" transform="rotate(-15 46 50)"/>
+
+</svg>

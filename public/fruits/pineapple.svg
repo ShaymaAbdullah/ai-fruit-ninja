@@ -1,0 +1,44 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Crown leaves -->
+  <path d="M60 28 C56 18 48 10 44 6 C48 14 52 20 56 28Z" fill="#2e7d32"/>
+  <path d="M60 28 C60 14 56 6 56 2 C58 10 60 18 60 28Z" fill="#4caf50"/>
+  <path d="M60 28 C64 18 72 10 76 6 C72 14 68 20 64 28Z" fill="#2e7d32"/>
+  <path d="M60 28 C54 20 44 16 40 16 C46 20 52 24 58 28Z" fill="#43a047"/>
+  <path d="M60 28 C66 20 76 16 80 16 C74 20 68 24 62 28Z" fill="#43a047"/>
+
+  <!-- Shadow -->
+  <ellipse cx="60" cy="102" rx="30" ry="7" fill="#000" opacity="0.2"/>
+
+  <!-- Body -->
+  <path d="M32 72
+           C32 52 44 32 60 32
+           C76 32 88 52 88 72
+           C88 90 76 104 60 104
+           C44 104 32 90 32 72Z"
+        fill="#ffc107"
+        stroke="#f57f17"
+        stroke-width="3.5"/>
+
+  <!-- Diamond pattern (simplified for performance) -->
+  <path d="M44 50 L60 42 L76 50 L80 62 L76 74 L60 82 L44 74 L40 62 Z"
+        fill="none" stroke="#e65100" stroke-width="1.5" opacity="0.5"/>
+
+  <path d="M44 74 L60 66 L76 74 L80 86 L76 98 L60 106 L44 98 L40 86 Z"
+        fill="none" stroke="#e65100" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Texture dots -->
+  <circle cx="52" cy="56" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="60" cy="52" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="68" cy="56" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="56" cy="64" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="64" cy="64" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="48" cy="70" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="72" cy="70" r="2.2" fill="#f57f17" opacity="0.6"/>
+  <circle cx="60" cy="78" r="2.2" fill="#f57f17" opacity="0.6"/>
+
+  <!-- Shine -->
+  <ellipse cx="44" cy="52" rx="8" ry="12" fill="white" opacity="0.25" transform="rotate(-15 44 52)"/>
+  <ellipse cx="41" cy="48" rx="4" ry="6" fill="white" opacity="0.4" transform="rotate(-15 41 48)"/>
+
+</svg>

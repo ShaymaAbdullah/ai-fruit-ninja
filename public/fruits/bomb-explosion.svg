@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="56" fill="#ff6b00" opacity="0.15"/>
+
+  <path d="M60 60 L60 4" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L100 20" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L116 60" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L100 100" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L60 116" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L20 100" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L4 60" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 60 L20 20" stroke="#ffd700" stroke-width="6" stroke-linecap="round"/>
+
+  <circle cx="60" cy="60" r="30" fill="#ff3d00"/>
+  <circle cx="60" cy="60" r="18" fill="#ffd700"/>
+  <circle cx="60" cy="60" r="8" fill="white"/>
+
+  <text
+    x="60"
+    y="65"
+    text-anchor="middle"
+    font-size="10"
+    font-weight="900"
+    fill="#ff3d00"
+  >
+    BOOM
+  </text>
+</svg>

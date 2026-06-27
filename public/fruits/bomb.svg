@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Fuse spark -->
+  <circle cx="78" cy="26" r="6" fill="#ffd700" opacity="0.9"/>
+  <path d="M78 26 C82 20 78 14 82 10" stroke="#ff9800" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="83" cy="9" r="4" fill="#ff6b00"/>
+  <circle cx="83" cy="9" r="2" fill="#fff176"/>
+
+  <!-- Spark lines -->
+  <path d="M78 26 L84 22" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+  <path d="M78 26 L82 30" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+  <path d="M78 26 L72 22" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+  <path d="M78 26 L74 32" stroke="#ffd700" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Fuse cord -->
+  <path d="M68 38 C72 34 74 30 78 26" stroke="#8d6e63" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Fuse top -->
+  <rect x="58" y="30" width="16" height="12" rx="4"
+        fill="#5a3e1b" stroke="#3e2723" stroke-width="2.5"/>
+
+  <!-- Shadow -->
+  <ellipse cx="60" cy="100" rx="36" ry="8" fill="#000000" opacity="0.3"/>
+
+  <!-- Bomb body -->
+  <circle cx="60" cy="70" r="36" fill="#212121"/>
+  <circle cx="60" cy="70" r="36" fill="none" stroke="#000000" stroke-width="4"/>
+
+  <!-- Shine -->
+  <ellipse cx="44" cy="54" rx="12" ry="16"
+           fill="#ffffff" opacity="0.12"
+           transform="rotate(-15 44 54)"/>
+
+  <ellipse cx="40" cy="50" rx="6" ry="8"
+           fill="#ffffff" opacity="0.22"
+           transform="rotate(-15 40 50)"/>
+
+  <!-- Warning ring -->
+  <circle cx="60" cy="70" r="26"
+          fill="none"
+          stroke="#424242"
+          stroke-width="2"
+          stroke-dasharray="8 6"/>
+</svg>

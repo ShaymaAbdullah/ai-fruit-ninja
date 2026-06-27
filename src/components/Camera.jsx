@@ -16,6 +16,8 @@ function Camera() {
                 });
 
             videoRef.current.srcObject = stream;
+
+            await videoRef.current.play();
         }
 
         startCamera();

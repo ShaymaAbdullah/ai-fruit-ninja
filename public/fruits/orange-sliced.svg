@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 62 C16 38 36 20 60 20 L60 104 C36 104 16 86 16 62Z" fill="#ff9800" stroke="#e65100" stroke-width="3"/>
+  <path d="M104 62 C104 38 84 20 60 20 L60 104 C84 104 104 86 104 62Z" fill="#ff9800" stroke="#e65100" stroke-width="3"/>
+
+  <line x1="60" y1="62" x2="16" y2="62" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="24" y2="40" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="24" y2="84" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="40" y2="22" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="40" y2="102" stroke="#fff3e0" stroke-width="2"/>
+
+  <line x1="60" y1="62" x2="104" y2="62" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="96" y2="40" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="96" y2="84" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="80" y2="22" stroke="#fff3e0" stroke-width="2"/>
+  <line x1="60" y1="62" x2="80" y2="102" stroke="#fff3e0" stroke-width="2"/>
+
+  <circle cx="60" cy="62" r="8" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+  <circle cx="60" cy="62" r="4" fill="#ff9800"/>
+
+  <line x1="60" y1="20" x2="60" y2="104" stroke="#e65100" stroke-width="2.5" stroke-dasharray="4 3"/>
+
+  <circle cx="26" cy="55" r="4" fill="#ffcc02" stroke="#e65100" stroke-width="1.5"/>
+  <circle cx="16" cy="70" r="3" fill="#ffcc02" stroke="#e65100" stroke-width="1.5"/>
+
+  <ellipse cx="36" cy="40" rx="8" ry="11" fill="white" opacity="0.3" transform="rotate(-10 36 40)"/>
+</svg>
